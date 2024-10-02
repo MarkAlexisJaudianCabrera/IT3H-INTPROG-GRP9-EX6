@@ -1,0 +1,9 @@
+@import url("/global-styles.css");
+/* EXERCISE #6 */
+.excer-6-styles{
+    background-color: var(--lm-bg-color);
+    color: var(--lm-font-w-color);
+    text-align: center;
+    margin-top: 20%;
+}
+/* END OF EXERCISE #6 */
